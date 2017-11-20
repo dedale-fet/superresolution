@@ -37,7 +37,7 @@ from 436.9 to 833.83 nm.
 **In order to run the code, the testing 3D datacube must be downloaded:** 
 
 * This link provides the sample data:
-[link](https://www.dropbox.com/s/pn60j5l4hozmfoc/test_cube.mat?dl=0)
+[link](https://drive.google.com/open?id=1gA5kXezBjKqMZaPhYT9IC3lH21w0-21B)
 
 
 **The testing hypercube should be placed in the same folder with the source code**
